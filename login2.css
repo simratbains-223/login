@@ -8,6 +8,7 @@ html,body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: rgb(253, 248, 248);
 }
 
 .card   {
@@ -15,7 +16,7 @@ html,body{
     border-width: 4px;
     border-radius: 12px;
     border-color: rgba(0,0,0,0.3);
-    background-color: rgba(160, 23, 23, 0.05);
+    background-color:rgb(255,255,255);
     min-width: 20%;
     min-height: 45%;
     display: flex;
